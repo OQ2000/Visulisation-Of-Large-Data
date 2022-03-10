@@ -15,6 +15,7 @@ Example of 5 x 5 Level:
 
 The level would have a start and finish where the player would then complete that level.
 The levels should be randomly generated and always have a start and finish that are connected by atleast 1 route.
+
 ![Example of 5 by 5 With Route](captureWRoutes.PNG)
 ## Visulisation:
 
