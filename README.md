@@ -10,6 +10,7 @@
 the player would navigate through a level that would consist of 2 or more rooms, each room would be a sqaure and therefore have a possibility of 4 different pathways from each room.
 
 Example of 5 x 5 Level:
+
 ![Example of 5 by 5](Capture.PNG)
 
 The level would have a start and finish where the player would then complete that level.
